@@ -1,5 +1,10 @@
 # ride-the-loss
 
+<p float="left">
+  <img src="/loss.png" width="100" />
+  <img src="/output.gif" width="100" /> 
+</p>
+
 ![gif](output.gif)
 
 convert your loss curves into line rider tracks
